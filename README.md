@@ -1,7 +1,9 @@
-### Olá!Eu sou a Camila Coelho
+### Olá! Eu sou a Camila Coelho
+### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Hoje trabalho como Analista de Qualidade
-- 🌱 Estudando Phyton 
+- 🔭 Hoje trabalho como Analista de Qualidade 
+- 🎓 Estudante de Ciencia da Computação - 4/8
+- 🌱 Estudando Phyton, JavaScript, Git e Angular
 - 😄 Pronomes: ela/dela
 
 <div align="center">
@@ -16,6 +18,7 @@
   <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
           
