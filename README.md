@@ -2,7 +2,7 @@
 ### Bem vindo (a) ao meu perfil GitHub 👋
 
 - 🔭 Hoje trabalho como Analista de Qualidade 
-- 🎓 Estudante de Ciencia da Computação - 5/8
+- 🎓 Estudante de Ciencia da Computação - 6/8
 - 🌱 Estudando Phyton, Django, JavaScript e React
 - 😄 Pronomes: ela/dela
 
