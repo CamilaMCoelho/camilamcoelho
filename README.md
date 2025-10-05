@@ -4,27 +4,25 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIxMzAwM2sxaGk3c2N2OW1xeWhuZnF3d3h0ZnQzbm51ZGl0eXRlaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
 </p>
 
-<h3 align="center">🚀 Em transição para Desenvolvimento Full Stack, começando pelo Front-End!</h3>
+<h3 align="center">🚀 Transformando processos, dados e tecnologia em soluções ágeis e escaláveis!</h3>
 
 ---
 
 ### 🎯 Sobre mim  
-🔹 **Bacharel em Ciência da Computação**, com experiência em análise de processos.  
-🔹 Atualmente atuando como **Analista de Processos Pleno**, focada na otimização e estruturação de fluxos de negócio.  
-🔹 Iniciando minha jornada como **Desenvolvedora Front-End**, utilizando **JavaScript, React, HTML, CSS e TypeScript**.  
-🔹 Minha experiência com processos e lógica me ajuda a construir aplicações mais organizadas e eficientes.  
-🔹 Objetivo: Me tornar **Desenvolvedora Full Stack** 🚀  
+🔹 **Bacharel em Ciência da Computação**, com trajetória em **Processos, CX e Qualidade**.  
+🔹 Experiência em **BPM, fluxogramas técnicos e melhoria contínua**, conectando negócio e tecnologia.  
+🔹 Atuação em **squads multidisciplinares**, unindo visão estratégica e lógica para criação de soluções eficientes.  
+🔹 Vivência em **dashboards, automação de processos e análise de dados** para apoiar decisões.  
+🔹 Apaixonada por **agilidade, inovação e tecnologia**, explorando também stacks como **JavaScript, React e TypeScript**.  
 
 ---
 
-### 🏢 Experiência & Impacto no Desenvolvimento  
-Atuando como **Analista de Processos**, desenvolvo fluxos que otimizam operações e melhoram a experiência do usuário. Essa visão estratégica fortalece minha abordagem no desenvolvimento de software, pois:  
-
-✔ Estruturo código como um fluxo bem definido, garantindo clareza e escalabilidade.  
-✔ Analiso requisitos com pensamento lógico e foco na experiência do usuário final.  
-✔ Trabalho em colaboração com desenvolvedores, garantindo alinhamento entre regras de negócio e soluções técnicas.  
-
-O desenvolvimento de software, assim como a construção de processos, exige uma visão clara da jornada do usuário, eficiência na execução e melhoria contínua.  
+### 🏢 Experiência & Impacto  
+✔ Implantação e consolidação de **BPM**, garantindo governança e eficiência operacional.  
+✔ Criação de **fluxos técnicos de negócio**, prevendo cenários e sustentando projetos de TI.  
+✔ Construção de **dashboards e indicadores estratégicos**, otimizando a tomada de decisão.  
+✔ Reconhecimento em **CX e Qualidade**, com entregas que fortaleceram KPIs e consistência operacional.  
+✔ Background em **suporte técnico**, com forte base em resolução de problemas e liderança técnica.  
 
 ---
 
@@ -35,6 +33,8 @@ O desenvolvimento de software, assim como a construção de processos, exige uma
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/BPM-2D9CDB?style=for-the-badge&logo=processwire&logoColor=white">
+  <img src="https://img.shields.io/badge/Dashboards-4B0082?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 ---
@@ -48,9 +48,10 @@ O desenvolvimento de software, assim como a construção de processos, exige uma
 ---
 
 ### 📌 Projetos em andamento  
-🔹 Construindo aplicações para consolidar conhecimento em **React e TypeScript**.  
-🔹 Aplicações práticas para aprimorar **UX/UI e acessibilidade**.  
-🔹 Em breve: explorando **Back-End** para completar minha transição para Full Stack!  
+🔹 **Dashboards** para controle e análise de KPIs.  
+🔹 **Automação de processos** e fluxos que apoiam squads e operações.  
+🔹 Aplicações front-end com **React e TypeScript**, consolidando minha base técnica.  
+🔹 Exploração de práticas ágeis aplicadas a projetos técnicos e de negócio.  
 
 ---
 
@@ -65,4 +66,4 @@ O desenvolvimento de software, assim como a construção de processos, exige uma
 
 ---
 
-⭐ **"Transformando processos em código e código em experiências incríveis!"**  
+⭐ **"Conectando processos, agilidade e tecnologia para transformar ideias em resultados!"**  
