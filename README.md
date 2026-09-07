@@ -102,7 +102,7 @@ Cada projeto é uma oportunidade de aprender, testar uma ideia e transformar con
 
 📍 São Paulo, Brasil
 📧 [coelhocamila178@gmail.com](mailto:coelhocamila178@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/camila-monteiro-coelho-96729a156)
+🔗 [LinkedIn](in/camila-monteiro-coelho-96729a156)
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300"/>
